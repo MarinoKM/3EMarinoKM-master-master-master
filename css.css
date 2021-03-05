@@ -346,10 +346,16 @@ body{
     z-index: 3;
 }
 .vecitext{
-    position: absolute;
-    top: 778px;
-    left: 62px;
-    z-index: 3;
+    position:absolute;
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    top: 750px;
+    left: 60px;
+    width: 384px;
+    font-size: 13px;
+    font-weight: 300px;
+    z-index:3;
 }
 .shadowlivo{
     position: absolute;
@@ -507,8 +513,14 @@ body{
 }
 .vecitext2{
     position:absolute;
-    top:2330px;
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    top: 2300px;
     left: 60px;
+    width: 384px;
+    font-size: 13px;
+    font-weight: 300px;
     z-index:3;
 }
 .okosrca{
